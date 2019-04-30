@@ -1,0 +1,7 @@
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Mimi = "e4e893b0-ee5e-52ea-8111-44b3bdec128c"
+MimiFUND = "b3ba11de-429f-11e9-29f7-cb478ab96e7c"
+MimiRICE2010 = "54b9761e-41d9-11e9-3151-3dc5fec6a45b"
+Query = "1a8c2f83-1ff3-5112-b086-8aa67b057ba1"
+VegaLite = "112f6efa-9a02-5b7d-90c0-432ed331239a"
